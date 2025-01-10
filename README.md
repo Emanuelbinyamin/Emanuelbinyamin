@@ -88,7 +88,7 @@ I'm passionate about **High-Level Programming** and the **Linux** ecosystem.
   <a href="https://www.networkworld.com/" target="_blank">
     <img src="https://img.shields.io/badge/Networking-0077B5?style=for-the-badge&logo=network&logoColor=white" alt="Networking" />
   </a>
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/digamergames?theme=light)
+![LeetCode Stats](https://leetcard.jacoblin.cool/digamergames?theme=light&font=source_code_pro)
 
 
 
