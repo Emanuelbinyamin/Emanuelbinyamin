@@ -88,10 +88,11 @@ I'm passionate about **High-Level Programming** and the **Linux** ecosystem.
   <a href="https://www.networkworld.com/" target="_blank">
     <img src="https://img.shields.io/badge/Networking-0077B5?style=for-the-badge&logo=network&logoColor=white" alt="Networking" />
   </a>
+  
+## LeatCode:
+[Check out my LeetCode profile!](https://leetcode.com/digamergames)
 
-## Contact
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/digamergames?theme=unicorn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/digamergames?theme=unicorn&ext=heatmap)
 
 
 
